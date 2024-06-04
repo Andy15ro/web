@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Jurnal </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .menu {
+            background-color: #333;
+            overflow: hidden;
+        }
+
+            .menu a {
+                float: left;
+                display: block;
+                color: #bad3e6;
+                text-align: center;
+                padding: 14px 20px;
+                text-decoration: none;
+            }
+
+                .menu a:hover {
+                    background-color: #ddd;
+                    color: black;
+                }
+   
+      
+      
+
+        .info-box {
+            border: 2px solid #333;
+            border-radius: 15px;
+            padding: 20px;
+            max-width: 400px;
+            margin: 20px auto;
+            background-color: #5e9bd1;
+        }
+    </style>
+
+        </head >
+        <body bgcolor="#bad3e6" >
+
+        <div class="menu" >
+        <a href="viziune.html" > Viziune</a >
+        <a href="misiune.html" > Misiune</a >
+        <a href="obiective.html" > Obiective</a >
+        <a href="analizaswot.html" > Analiza swot</a >
+        <a href="plan.html" > Planul de realizare</a >
+        <a href="realizari.html" > Realizari</a >
+        <a href="hobby.html" > Hobby</a >
+        <a href="timeline.html" > Timeline</a >
+        <a href="galerie.html" > Galerie</a >
+        </div >
+        <br/><br/>
+        <h1 align="center" > Jurnal personal</h1 >
+        <hr align="center" color="black" height="5px" width=50% >
+        <br / >
+        <br / >
+        <br / >
+        <br / >
+        <br / >
+        <div class="info-box" >
+        <p align="center" >
+        <font face="new times roman" size="+2" color="black" >
+        <b > Nume:</b > Lazar Iustinian Andrei<br / >
+        <b > Scoala:</b > Colegiul National Dragos Voda<br / >
+        <b > Clasa:</b > a IX-a A, matematica-informatica
+        </font >
+        </p >
+        </div >
+        </body >
+        </html >

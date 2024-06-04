@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .menu a {
+            display: inline-block;
+            margin: 0 10px;
+      
+    </style>
+</head>
+<body>
+
+<div class="menu">
+    <a href="index.html">Înapoi la Meniu</a>
+</div>
+
+
+<h2>Plan</h2>
+<p>Aici vei descrie planul tau...</p>
+
+</body>
+</html>
